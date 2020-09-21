@@ -2,7 +2,6 @@ import React from 'react';
 import GlobeIcon from '@material-ui/icons/Language';
 import SearchIcon from '@material-ui/icons/SearchRounded';
 import ExpandMoreRoundedIcon from '@material-ui/icons/ExpandMoreRounded';
-import { Avatar } from "@material-ui/core";
 import MenuRoundedIcon from '@material-ui/icons/MenuRounded';
 import AccountCircleRoundedIcon from '@material-ui/icons/AccountCircleRounded';
 
