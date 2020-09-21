@@ -118,6 +118,7 @@ body {
   font-size: 16px;
   list-style-type: none;
   margin: 15px;
+  color: #4c4c4c !important;
 }
 
 .footer-links:hover {
@@ -155,5 +156,5 @@ text-decoration: underline;
 }
 
 a {
-  color: #4c4c4c;
+  color: inherit !important;
 }
